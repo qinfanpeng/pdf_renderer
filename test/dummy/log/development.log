@@ -1,0 +1,48 @@
+
+
+Started GET "/home" for 127.0.0.1 at 2013-06-27 15:34:14 +0800
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home.pdf" for 127.0.0.1 at 2013-06-27 15:34:25 +0800
+  Processing by HomeController#index as PDF
+Rendered home/index.pdf.erb (0.3ms)
+Rendered text template (0.0ms)
+Sent data contents.pdf (17.2ms)
+Completed 200 OK in 108ms (Views: 107.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2013-06-27 15:36:16 +0800
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home.pdf" for 127.0.0.1 at 2013-06-27 15:36:18 +0800
+  Processing by HomeController#index as PDF
+Rendered home/index.pdf.erb (0.3ms)
+Rendered text template (0.0ms)
+Sent data contents.pdf (0.6ms)
+Completed 200 OK in 94ms (Views: 93.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2013-06-27 15:36:34 +0800
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home.pdf" for 127.0.0.1 at 2013-06-27 15:36:35 +0800
+  Processing by HomeController#index as PDF
+Rendered home/index.pdf.erb (0.3ms)
+Rendered text template (0.0ms)
+Sent data contents.pdf (16.5ms)
+Completed 200 OK in 107ms (Views: 106.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2013-06-27 15:38:01 +0800
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 9ms (Views: 8.5ms | ActiveRecord: 0.0ms)
